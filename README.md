@@ -96,7 +96,7 @@ The dataset contains telecom customer information including:
 
 ## 📸 Dashboard Section
 <p align="center">
-  <img src="DASHBOARD.png" width="800"/>
+  <img src="Dashboard.png" width="800"/>
 </p>
 
 ---
